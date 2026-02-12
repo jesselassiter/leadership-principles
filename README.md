@@ -1,6 +1,8 @@
 # Technology Leadership Principles  
 ### Jesse Lassiter
 
+Executive leadership principles developed through enterprise IT modernization, engineering management, and large-scale platform delivery initiatives.
+
 This repository outlines core leadership principles developed through 13+ years of experience across IT operations, engineering management, enterprise platform delivery, and product strategy.
 
 These principles guide modernization initiatives, operational excellence efforts, and the development of high-performing technical teams.

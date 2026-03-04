@@ -1,4 +1,4 @@
-Professional overview: https://jesselassiter.com
+Professional Overview: https://jesselassiter.com
 
 # Technology Leadership Principles  
 ### Jesse Lassiter
